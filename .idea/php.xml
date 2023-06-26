@@ -85,8 +85,6 @@
       <path value="$PROJECT_DIR$/Api/vendor/jms/serializer-bundle" />
       <path value="$PROJECT_DIR$/Api/vendor/jms/serializer" />
       <path value="$PROJECT_DIR$/Api/vendor/jms/metadata" />
-      <path value="$PROJECT_DIR$/Api/vendor/symfony/options-resolver" />
-      <path value="$PROJECT_DIR$/Api/vendor/zircote/swagger-php" />
       <path value="$PROJECT_DIR$/Api/vendor/twig/twig" />
       <path value="$PROJECT_DIR$/Api/vendor/twig/extra-bundle" />
       <path value="$PROJECT_DIR$/Api/vendor/symfony/twig-bridge" />
@@ -94,7 +92,14 @@
       <path value="$PROJECT_DIR$/Api/vendor/symfony/asset" />
       <path value="$PROJECT_DIR$/Api/vendor/symfony/http-client-contracts" />
       <path value="$PROJECT_DIR$/Api/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/Api/vendor/willdurand/negotiation" />
+      <path value="$PROJECT_DIR$/Api/vendor/symfony/web-link" />
+      <path value="$PROJECT_DIR$/Api/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/Api/vendor/api-platform/core" />
+      <path value="$PROJECT_DIR$/Api/vendor/zircote/swagger-php" />
       <path value="$PROJECT_DIR$/Api/vendor/nelmio/api-doc-bundle" />
+      <path value="$PROJECT_DIR$/Api/vendor/nelmio/cors-bundle" />
+      <path value="$PROJECT_DIR$/Api/vendor/symfony/options-resolver" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.1">

@@ -89,8 +89,6 @@
       <excludeFolder url="file://$MODULE_DIR$/Api/vendor/jms/serializer-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/Api/vendor/jms/serializer" />
       <excludeFolder url="file://$MODULE_DIR$/Api/vendor/jms/metadata" />
-      <excludeFolder url="file://$MODULE_DIR$/Api/vendor/symfony/options-resolver" />
-      <excludeFolder url="file://$MODULE_DIR$/Api/vendor/zircote/swagger-php" />
       <excludeFolder url="file://$MODULE_DIR$/Api/vendor/twig/twig" />
       <excludeFolder url="file://$MODULE_DIR$/Api/vendor/twig/extra-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/Api/vendor/symfony/twig-bridge" />
@@ -98,7 +96,14 @@
       <excludeFolder url="file://$MODULE_DIR$/Api/vendor/symfony/asset" />
       <excludeFolder url="file://$MODULE_DIR$/Api/vendor/symfony/http-client-contracts" />
       <excludeFolder url="file://$MODULE_DIR$/Api/vendor/symfony/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/Api/vendor/willdurand/negotiation" />
+      <excludeFolder url="file://$MODULE_DIR$/Api/vendor/symfony/web-link" />
+      <excludeFolder url="file://$MODULE_DIR$/Api/vendor/psr/link" />
+      <excludeFolder url="file://$MODULE_DIR$/Api/vendor/api-platform/core" />
+      <excludeFolder url="file://$MODULE_DIR$/Api/vendor/zircote/swagger-php" />
       <excludeFolder url="file://$MODULE_DIR$/Api/vendor/nelmio/api-doc-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/Api/vendor/nelmio/cors-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/Api/vendor/symfony/options-resolver" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
